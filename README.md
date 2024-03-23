@@ -9,3 +9,6 @@
    1. Initializing venv and activating venv
    2. this will require to write: "python -m venv venv"
    3. to activate we need to write: "source venv/bin/activate"
+
+
+[How to test](./TestDocument.pdf)
